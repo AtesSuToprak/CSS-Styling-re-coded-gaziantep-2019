@@ -31,6 +31,6 @@ figcaption {
 
 /* Class selector (applied to as many elements as you like) */
 
-.milk-text { /*select element 
-  
+.milk-text { /*select element with class="milk-text" */
+  font:bold 2.Gen;
 }
